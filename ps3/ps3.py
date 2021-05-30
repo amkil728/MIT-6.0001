@@ -3,7 +3,7 @@
 # The 6.0001 Word Game
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 #
-# Name          : aayush
+# Name          : amkil728
 
 # TO DO:
 # Wildcards
