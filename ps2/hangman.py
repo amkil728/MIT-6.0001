@@ -1,6 +1,6 @@
 #!python
 # Problem Set 2, hangman.py
-# Name: aayush
+# Name: amkil728
 
 
 # TODO:
@@ -234,7 +234,7 @@ def print_intro():
     '''
 
     print(header)
-    print('by Aayush'.rjust(100))
+    print('by amkil728'.rjust(100))
     print()
     print()
     print()
