@@ -1,5 +1,5 @@
 # 6.0001/6.00 Problem Set 5 - RSS Feed Filter
-# Name: aayush
+# Name: amkil728
 
 
 import feedparser, string, time, threading, pytz
