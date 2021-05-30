@@ -1,5 +1,5 @@
 # Problem Set 4A
-# Name: aayush
+# Name: amkil728
 
 
 def get_permutations(sequence):
